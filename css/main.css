@@ -1,0 +1,28 @@
+/* element/tag selector */
+h1 {
+  color: rgb(143, 11, 73);
+  text-align: right;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
+/* p{
+  color: red; 
+  font-size: 26px;
+} */
+a{
+  text-decoration:none;
+}
+
+/* class selector */
+.green-text{
+  color:green;
+}
+.blue-text{
+  color:blue;
+  font-size: 30px;
+}
+
+/* id selector */
+#main{
+  text-decoration: underline;
+}
